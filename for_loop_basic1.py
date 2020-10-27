@@ -17,8 +17,8 @@ for x in range (1, 100, 1):
 for y in range (0, 500000, +2):
     sum = 0
     if (y % 2 == 1):
-    sum = y + y[i]:
-        print(sum)
+        sum = y + y[i]
+print(sum)
 
 # #5 Print positve numbers startging 2018, counting down by fours
 for x in range (2018, 0, -4):
@@ -31,5 +31,3 @@ mult=3
 for x in range (lowNum, highNum+1, 1):
     if x % mult == 0:
         print(x)
-
-    
